@@ -3,18 +3,18 @@ const pokemon_count = 150
 const colors = {
     fire: '#FDDFDF',
     grass: '#DEFDE0',
-    electric: 'FCF7DE',
+    electric: '#FAFF83',
     water: '#DEF3FD',
-    ground: '#f4e7da',
+    ground: '#BBA178',
     rock: '#D5D5D4',
     fairy: '#FCEAFF',
-    poison: '#98d7a5', 
+    poison: '#D7A2FF', 
     bug: '#F8D5A3',
     dragon: '#97b3e6',
-    psychic: '#eaerda1',
-    flying: '#F5f5f5',
+    psychic: '#956DB4',
+    flying: '#F3FEFF',
     fighting: '#E6E0D4',
-    normal: '#F5F5F5',
+    normal: '#E9E8E8',
 }
 
 const main_types = Object.keys(colors)
